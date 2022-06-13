@@ -1,0 +1,24 @@
+ul {
+  list-style: none;
+}
+
+.red {
+  background-color: red;
+}
+
+.yellow {
+  background-color: rgb(255, 209, 4);
+}
+
+.green {
+  background-color: green;
+}
+
+.sticker {
+  width: 15px;
+  height: 15px;
+  margin-left: 5px;
+  display: inline-block;
+  border-radius: 50%;
+  vertical-align: middle;
+}
